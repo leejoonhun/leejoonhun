@@ -151,6 +151,7 @@
   <img
     src="https://img.shields.io/badge/MX%20Vertical-00B8FC?style=flat-square&logo=Logitech&logoColor=white"
   />
+  <br />
   <!-- Mobile Devices -->
   <img
     src="https://img.shields.io/badge/Galaxy%20S21-1428A0?style=flat-square&logo=Samsung&logoColor=white"
