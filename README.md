@@ -59,7 +59,7 @@
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"
   />
   <br />
   <img
