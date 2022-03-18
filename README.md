@@ -88,9 +88,6 @@
   />
   <!-- Languages for Computer Science -->
   <img
-    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"
   />
   <img
@@ -106,6 +103,9 @@
   />
   <img
     src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
   />
   <!-- Languages for Blockchain -->
   <img
