@@ -39,13 +39,6 @@
       src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=Buy-Me-a-Coffee&logoColor=black"
     />
   </a>
-  <!--
-  <a href="https://toss.me/leejoonhun">
-    <img
-      src="https://img.shields.io/badge/Show%20Me%20the%20Money-FFDD00?style=for-the-badge&logo=Buy-Me-a-Coffee&logoColor=black"
-    />
-  </a>
-  -->
   <br />
 </p>
 
