@@ -12,6 +12,11 @@
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"
     />
   </a>
+  <a href="https://www.kaggle.com/joonhunlee">
+    <img
+      src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+    />
+  </a>
 </p>
 
 <h3 align="center">Contact me by</h3>
