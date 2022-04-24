@@ -59,6 +59,9 @@
   <img
     src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"
   />
+  <img
+    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
+  />
   <br />
   <img
     src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"
@@ -94,6 +97,9 @@
   <br />
   <!-- Languages for Software Development -->
   <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"
+  />
+  <img
     src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"
   />
   <img
@@ -101,9 +107,6 @@
   />
   <img
     src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
   />
   <!-- Languages for Blockchain -->
   <img
