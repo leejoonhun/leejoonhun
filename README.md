@@ -57,20 +57,20 @@
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"
+    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"
   />
   <br />
   <img
-    src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"
+    src="https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"
+    src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/pyspark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"
@@ -127,9 +127,6 @@
   />
   <img
     src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"
