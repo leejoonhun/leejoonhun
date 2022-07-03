@@ -19,7 +19,7 @@
   </a>
   <a href="https://www.hub.docker.com/u/doononi63">
     <img
-      src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=DockerHub&logoColor=white"
+      src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
     />
   </a>
 </p>
