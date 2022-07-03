@@ -17,7 +17,7 @@
       src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
     />
   </a>
-  <a href="https://www.hub.docker.com/u/doononi63">
+  <a href="https://hub.docker.com/u/doononi63">
     <img
       src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
     />
